@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGJsonLib", "TestGJsonLib\TestGJsonLib.csproj", "{88258B77-FD83-4C62-B897-82C8AA190429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88258B77-FD83-4C62-B897-82C8AA190429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88258B77-FD83-4C62-B897-82C8AA190429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88258B77-FD83-4C62-B897-82C8AA190429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88258B77-FD83-4C62-B897-82C8AA190429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18315A2B-A9AA-48D4-B298-46BB6696C199}
+	EndGlobalSection
+EndGlobal
